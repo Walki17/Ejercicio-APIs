@@ -1,0 +1,11 @@
+div.container{
+   width: 860px;
+}
+#InfoPj{
+    margin-top: 10px;
+    gap: 10px;
+}
+
+div#InfoPj.row.row-cols-1.row-cols-md-3.g-4{
+    width: 860px;
+}
